@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.ilsp.gr/META-XMLSchema http://www.meta-share.org/META-XMLSchema/v3.0/META-SHARE-Resource.xsd">
+   <identificationInfo>
+      <resourceName>Italian LMF Apertium Dictionary</resourceName>
+      <description>This is the LMF version of the Apertium Italian dictionary. Monolingual dictionary for Italian was generated from the Apertium expanded lexicon of the es-it.
+         Apertium is a free/open-source machine translation platform, initially aimed at related-language pairs but recently expanded to deal with more divergent language pairs (such as English-Catalan).
+         The platform provides: a language-independent machine translation engine; tools to manage the linguistic data necessary to build a machine translation system for a given language pair and linguistic data for a growing number of language pairs.</description>
+      <resourceShortName>LMF Apertium It</resourceShortName>
+      <url>http://www.apertium.org</url>
+      <metaShareId>
+				NOT_DEFINED_FOR_V2
+	  		</metaShareId>
+      <identifier>http://hdl.handle.net/10230/17126</identifier>
+   </identificationInfo>
+   <distributionInfo>
+      <availability>available-unrestrictedUse</availability>
+      <licenceInfo>
+         <licence>GPL</licence>
+         <distributionAccessMedium>downloadable</distributionAccessMedium>
+         <downloadLocation>http://hdl.handle.net/10230/17126</downloadLocation>
+      </licenceInfo>
+   </distributionInfo>
+   <contactPerson>
+      <surname>Forcada</surname>
+      <givenName>Mikel</givenName>
+      <communicationInfo>
+         <email>mlf@dlsi.ua.es</email>
+         <address/>
+         <zipCode>03080</zipCode>
+         <city>Alicante</city>
+         <country>Spain</country>
+      </communicationInfo>
+      <affiliation>
+         <organizationName>Universitat d'Alacant. Grup Transducens</organizationName>
+         <organizationShortName>UA-Grup Transducens</organizationShortName>
+         <communicationInfo>
+            <email>info@prompsit.com</email>
+            <url>http://transducens.dlsi.ua.es/</url>
+            <address>Departament de Llenguatges i Sistemes Informàtics. Universitat d'Alacant. 03080 Alacant</address>
+            <zipCode>03080</zipCode>
+            <city>Alicante</city>
+            <country>Spain</country>
+            <telephoneNumber>+34 96 5903772</telephoneNumber>
+            <faxNumber>+34 96 5909326</faxNumber>
+         </communicationInfo>
+      </affiliation>
+   </contactPerson>
+   <contactPerson>
+      <surname>Vivaldi</surname>
+      <givenName>Jorge</givenName>
+      <communicationInfo>
+         <email>jorge.vivaldi@upf.edu</email>
+         <address>Roc Boronat, 138</address>
+         <zipCode>08018</zipCode>
+         <city>Barcelona</city>
+         <country>Spain</country>
+      </communicationInfo>
+      <affiliation>
+         <organizationName>Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)</organizationName>
+         <organizationShortName>UPF-IULA</organizationShortName>
+         <departmentName>Institut Universitari de Lingüística Aplicada (IULA)</departmentName>
+         <communicationInfo>
+            <email>jorge.vivaldi@upf.edu</email>
+            <url>http://www.iula.upf.edu/</url>
+            <address>Roc Boronat, 138</address>
+            <zipCode>08018</zipCode>
+            <city>Barcelona</city>
+            <country>Spain</country>
+            <telephoneNumber>+34 93 5422332</telephoneNumber>
+            <faxNumber>+34 93 5422321</faxNumber>
+         </communicationInfo>
+      </affiliation>
+   </contactPerson>
+   <metadataInfo>
+      <metadataCreationDate>2012-03-10</metadataCreationDate>
+      <metadataCreator>
+         <surname>Villegas</surname>
+         <givenName>Marta</givenName>
+         <communicationInfo>
+            <email>marta.villegas@upf.edu</email>
+            <url>http://www.iula.upf.edu/</url>
+            <address>Roc Boronat, 138</address>
+            <zipCode>08018</zipCode>
+            <city>Barcelona</city>
+            <country>Spain</country>
+            <telephoneNumber>+34 93 5422307</telephoneNumber>
+            <faxNumber>+34 93 5422321</faxNumber>
+         </communicationInfo>
+         <affiliation>
+            <organizationName>Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)</organizationName>
+            <organizationShortName>UPF-IULA</organizationShortName>
+            <departmentName>Institut Universitari de Lingüística Aplicada (IULA)</departmentName>
+            <communicationInfo>
+               <email>marta.villegas@upf.edu</email>
+               <url>http://www.iula.upf.edu/</url>
+               <address>Roc Boronat, 138</address>
+               <zipCode>08018</zipCode>
+               <city>Barcelona</city>
+               <country>Spain</country>
+               <telephoneNumber>+34 93 5422307</telephoneNumber>
+               <faxNumber>+34 93 5422321</faxNumber>
+            </communicationInfo>         
+         </affiliation>
+      </metadataCreator>
+      <source>METASHARE</source>
+      <originalMetadataSchema>v2.1</originalMetadataSchema>
+      <metadataLanguageId>en</metadataLanguageId>
+      <metadataLastDateUpdated>2012-05-30</metadataLastDateUpdated>
+   </metadataInfo>
+   <versionInfo>
+      <version>1</version>
+      <lastDateUpdated>2012-03-30</lastDateUpdated>
+
+   </versionInfo>
+   <validationInfo>
+      <validated>true</validated>
+      <validationType>formal</validationType>
+      <validationMode>automatic</validationMode>
+      <validationModeDetails>The lexicon validates against the LMF DTD v.16</validationModeDetails>
+   </validationInfo>
+   <resourceDocumentationInfo>
+      <documentation>
+         <documentUnstructured>http://xixona.dlsi.ua.es/~fran/apertium2-documentation.pdf</documentUnstructured>
+      </documentation>
+      <documentation>
+         <documentUnstructured>Forcada,M.L., Ivanov, B., Ortiz, S., Pérez, J.A., Ramírez, G.,
+            Sánchez, F., Armentano, C., Montava, M.A., Tyers, F.M., (2010). 'Documentation of the
+            Open Source Shallow-Transfer Machine Translation Platform Apertium'. Departament de
+            Llenguatges i Sistemes Informàtics Universitat d'Alacant, March
+            2010.</documentUnstructured>
+      </documentation>
+   </resourceDocumentationInfo>
+   <resourceCreationInfo>
+      <resourceCreator>
+         <organizationInfo>
+            <organizationName>Prompsit Language Engineering, S.L</organizationName>
+            <organizationShortName>Prompsit</organizationShortName>
+            <communicationInfo>
+               <email>info@prompsit.com</email>
+               <url>http://www.prompsit.com/</url>
+               <address>Avenida Universidad, s/n. Edificio Quorum III. 03202 Elche (Alicante). España.</address>
+               <zipCode>03202</zipCode>
+               <city>Elche</city>
+               <country>Spain</country>
+               <telephoneNumber>(+34) 965457549</telephoneNumber>
+            </communicationInfo>
+         </organizationInfo>
+      </resourceCreator>
+      <resourceCreator>
+         <organizationInfo>
+            <organizationName>Universitat d'Alacant. Grup Transducens</organizationName>
+            <organizationShortName>UA-Grup Transducens</organizationShortName>
+            <communicationInfo>
+               <email>info@prompsit.com</email>
+               <url>http://transducens.dlsi.ua.es/</url>
+               <address>Departament de Llenguatges i Sistemes Informàtics. Universitat d'Alacant. 03080 Alacant</address>
+               <zipCode>03080</zipCode>
+               <city>Alicante</city>
+               <country>Spain</country>
+               <telephoneNumber>+34 96 5903772</telephoneNumber>
+               <faxNumber>+34 96 5909326</faxNumber>
+            </communicationInfo>
+         </organizationInfo>
+      </resourceCreator>
+      <resourceCreator>
+         <organizationInfo>
+            <organizationName>Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)</organizationName>
+            <organizationShortName>UPF-IULA</organizationShortName>
+            <departmentName>Institut Universitari de Lingüística Aplicada (IULA)</departmentName>
+            <communicationInfo>
+               <email>jorge.vivaldi@upf.edu</email>
+               <url>http://www.iula.upf.edu/</url>
+               <address>Roc Boronat, 138</address>
+               <zipCode>08018</zipCode>
+               <city>Barcelona</city>
+               <country>Spain</country>
+               <telephoneNumber>+34 93 5422332</telephoneNumber>
+               <faxNumber>+34 93 5422321</faxNumber>
+            </communicationInfo>
+         </organizationInfo>
+      </resourceCreator>
+      <fundingProject>
+         <projectName>Opentrad</projectName>
+         <projectShortName>Opentrad</projectShortName>
+         
+         <fundingType>nationalFunds</fundingType>
+         <funder>España. Ministerio de Industria, Turismo y Comercio</funder>
+         <fundingCountry>Spain</fundingCountry>
+      </fundingProject>
+      <fundingProject>
+         <projectName>Apertium</projectName>
+         <projectShortName>Apertium</projectShortName>
+         <url>http://www.apertium.org</url>
+         <fundingType>nationalFunds</fundingType>
+         <funder>España. Ministerio de Industria, Turismo y Comercio</funder>
+         <funder>Generalitat de Catalunya. Secretariat de Telecomunicacions i Societat de la Informació</funder>
+         <fundingCountry>Spain</fundingCountry>
+      </fundingProject>
+      <fundingProject>
+         <projectName>METANET4U</projectName>
+         <projectShortName>METANET4U</projectShortName>
+         <url>http://metanet4u.eu/</url>
+         <fundingType>ownFunds</fundingType>
+         <fundingType>euFunds</fundingType>
+         <funder>Universitat Pompeu Fabra</funder>
+         <funder>European Union</funder>
+         <fundingCountry>Spain</fundingCountry>
+      </fundingProject>
+      <creationStartDate>2012-10-10</creationStartDate>
+      <creationEndDate>2012-10-30</creationEndDate>
+   </resourceCreationInfo>
+   <resourceComponentType>
+      <lexicalConceptualResourceInfo>
+         <resourceType>lexicalConceptualResource</resourceType>
+         <lexicalConceptualResourceType>lexicon</lexicalConceptualResourceType>
+         <lexicalConceptualResourceEncodingInfo>
+            <encodingLevel>morphology</encodingLevel>
+            <linguisticInformation>lemma</linguisticInformation>
+            <linguisticInformation>semantics-CrossReferences</linguisticInformation>
+            <linguisticInformation>partOfSpeech</linguisticInformation>
+            <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
+         </lexicalConceptualResourceEncodingInfo>
+         <creationInfo>
+            <originalSource>
+               <targetResourceNameURI>Apertium Monolingual dictionary as described in
+                  http://xixona.dlsi.ua.es/~fran/apertium2-documentation.pdf</targetResourceNameURI>
+            </originalSource>
+            <creationMode>automatic</creationMode>
+            <creationModeDetails>This lexicon was created with the ApertiumMonolingual2LMF.pl script</creationModeDetails>
+            <creationTool>
+               <targetResourceNameURI>ApertiumMonolingual2LMF.pl</targetResourceNameURI>
+            </creationTool>
+         </creationInfo>
+         <lexicalConceptualResourceMediaType>
+            <lexicalConceptualResourceTextInfo>
+               <mediaType>text</mediaType>
+               <lingualityInfo>
+                  <lingualityType>monolingual</lingualityType>
+               </lingualityInfo>
+               <languageInfo>
+                  <languageId>it</languageId>
+                  <languageName>Italian</languageName>
+               </languageInfo>
+               <sizeInfo>
+                  <size>12083</size>
+
+                  <sizeUnit>entries</sizeUnit>
+               </sizeInfo>
+               <textFormatInfo>
+                  <mimeType>text/xml</mimeType>
+               </textFormatInfo>
+               <characterEncodingInfo>
+                  <characterEncoding>UTF-8</characterEncoding>
+               </characterEncodingInfo>
+               <domainInfo>
+                  <domain>general</domain>
+               </domainInfo>
+            </lexicalConceptualResourceTextInfo>
+         </lexicalConceptualResourceMediaType>
+      </lexicalConceptualResourceInfo>
+   </resourceComponentType>
+</resourceInfo>

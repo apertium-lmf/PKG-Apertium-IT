@@ -1,0 +1,14 @@
+Copying and Author information
+
+Resource name: Italian LMF Apertium Dictionary
+Resource identifier: http://hdl.handle.net/10230/17126
+Licence: GPL
+
+Authors:
+
+() Prompsit Language Engineering, S.L
+
+() Universitat d'Alacant. Grup Transducens
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
